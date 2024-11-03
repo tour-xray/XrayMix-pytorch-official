@@ -7,8 +7,6 @@
 - [Start](#Start)
 - [Document](#Document)
 - [Frameworks](#Frameworks)
-- [Contributor](#Contributor)
-- [Acknowledge](#Acknowledge)
 
 ### 🤯Start
 
