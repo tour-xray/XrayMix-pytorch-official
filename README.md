@@ -1,6 +1,6 @@
 # 🤯XrayMix-Pytorch-OFFICIAL
 👏 XrayMix implementation and SANDet source code<br>
-**[2024/11/03]** Updated Readme.md, and released the source code of XrayMix. Please note that this version of the source code uses pytorch refactoring and is not directly trainable for target detection tasks. The source code for XrayMix, which is integrated with the mmdetection framework, will be released soon.
+**[2024/11/03]** Updated README.md, and released the source code of XrayMix. Please note that this version of the source code uses pytorch refactoring and is not directly trainable for target detection tasks. The source code for XrayMix, which is integrated with the mmdetection framework, will be released soon.
  
 ## 🤯Catalogs
 
