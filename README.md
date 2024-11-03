@@ -1,4 +1,4 @@
-# 🤯XrayMix-Offical
+# 🤯XrayMix-Pytorch-OFFICIAL
 👏 XrayMix implementation and SANDet source code<br>
 **[2024/11/03]** Updated Readme.md, and released the source code of XrayMix.
  
