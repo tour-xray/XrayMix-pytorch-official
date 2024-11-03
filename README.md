@@ -50,11 +50,11 @@ The 114Xray we used is the version published in PRCV 2024.<br>
 
 ### 🤠Contributor
 
-Anonymous.
+Temporarily anonymous.
 
 
 ### 🤠Author
-Anonymous.
+Temporarily anonymous.
 
 
 ### 🤠Acknowledge
